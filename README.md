@@ -3,8 +3,6 @@
 
 <img align="right" alt="working" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/manas-richhawal-50b914258/)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/manas-richhawal" target="_blank">
