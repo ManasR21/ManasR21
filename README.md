@@ -41,7 +41,8 @@
   </a> 
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manasr21)
+![GitHub Streak](https://streak-stats.demolab.com/?user=manasr21)
+
 
 
 
