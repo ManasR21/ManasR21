@@ -41,7 +41,7 @@
   </a> 
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=manasr21)
+![GitHub Streak](https://camo.githubusercontent.com/d159fe8bd5a4546d8908475784771d5f8db5769321d15c66826ffd5fbb612e3d/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d616e6173523231)
 
 
 
