@@ -41,7 +41,7 @@
   </a> 
 </p>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasr21" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasR21" alt="GitHub Streak" />
 </div>
 
 
