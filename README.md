@@ -40,8 +40,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a> 
 </p>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasR21" alt="GitHub Streak" />
-</div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manasr21)
+
 
 
