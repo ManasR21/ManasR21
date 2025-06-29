@@ -16,3 +16,13 @@
     <img src="https://streak-stats.demolab.com?user=ManasR21&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-240%2B_Rooms-red?logo=tryhackme&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-blue?logo=linux&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CTF-Player-green?logo=hackthebox&style=for-the-badge"/>
+</p>
+
+
+
+<p align="center"><i>"Hack deeply. Think freely. Be kind always."</i></p>
