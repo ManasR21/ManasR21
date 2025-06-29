@@ -1,7 +1,10 @@
+<h1 align="center">Hi 👋, I'm Manas Richhawal</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&vCenter=true&width=500&lines=Cybersecurity+Student;CTF+Player+and+Linux+User" alt="Typing SVG" />
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=750&lines=Cybersecurity+Student+%7C+Tech+Explorer+and+Researcher;CTF+Player+and+Linux+User+%7C+Open+Source+Practitioner" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <p align="center">
